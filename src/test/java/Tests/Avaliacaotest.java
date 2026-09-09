@@ -1,7 +1,9 @@
-package Test_package;
+package Tests;
+
+
 
 import model.Avaliacao;
-import  org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
